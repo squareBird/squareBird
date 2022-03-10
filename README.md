@@ -3,6 +3,11 @@
 <br>
 <br>
 
+<H1>Certificate</H1>
+
+- 정보처리기사
+- <a href="https://www.credly.com/badges/5c5c0543-e641-4da8-8c6c-d6acc72e749d/public_url">AWS Certified Solutions Architect - Associate certificate</a>
+
 <H1>Devloper</H1>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
