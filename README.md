@@ -24,3 +24,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
+<H1>Status</H1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squareBird&layout=compact&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squareBird&show_icons=true&theme=white)
