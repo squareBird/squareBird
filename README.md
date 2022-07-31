@@ -1,4 +1,4 @@
-Cloud Engineer / 2021.03 ~ 2022.07 / Wins
+Cloud Engineer / 2021.03 ~ 2022.07 / Wins 
 <br>
 DevOps Engineer / 2022.08 ~ / Vanilla Studio
 
